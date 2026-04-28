@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Fowzia Ishrat Nisha! 👋 🔬
 
-<!--
-**nisha-microbio/nisha-microbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 About Me
+- 🔭 Currently a **Research Intern** at **MicroQuest Research & Training Centre (MQRTC)**.
+- 🌱 Pursuing B.Sc. in **Microbiology** at **Primeasia University**.
+- 🔬 Focused on **Gut Health, Immunology, and Nutritional Microbiology**.
+- 🏆 Champion Award Winner @ **BSM Conference**.
 
-Here are some ideas to get you started:
+### 🛠 Research Skills
+- **Lab & Clinical:** Microbiological Assays, Immunology Research.
+- **Data:** Literature Review, Scientific Documentation.
+- **Tools:** GitHub, ResearchGate, ORCID.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Current Projects
+- Leading research on "Gut Microbiota & Antibiotic Use Trends in Bangladesh."
+
+---
+📫 [LinkedIn](https://www.linkedin.com/in/fowzia-ishrat-nisha) | 🌐 [ResearchGate](https://www.researchgate.net/profile/Fowzia-Nisha)
