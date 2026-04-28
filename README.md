@@ -4,15 +4,14 @@
 - 🔭 Currently a **Research Intern** at **MicroQuest Research & Training Centre (MQRTC)**.
 - 🌱 Pursuing B.Sc. in **Microbiology** at **Primeasia University**.
 - 🔬 Focused on **Gut Health, Immunology, and Nutritional Microbiology**.
-- 🏆 Champion Award Winner @ **BSM Conference**.
 
 ### 🛠 Research Skills
 - **Lab & Clinical:** Microbiological Assays, Immunology Research.
-- **Data:** Literature Review, Scientific Documentation.
-- **Tools:** GitHub, ResearchGate, ORCID.
+- **Data & Analysis:** **R**, **SPSS**, Literature Review, Scientific Documentation.
+- **Research Tools:** **Mendeley**, **EndNote**, **BioRender**, GitHub.
 
-### 📊 Current Projects
-- Leading research on "Gut Microbiota & Antibiotic Use Trends in Bangladesh."
+### 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/fowzia-ishrat-nisha) | [ResearchGate]([https://www.researchgate.net/profile/Fowzia-Nisha](https://www.researchgate.net/profile/Fowzia-Nisha?ev=hdr_xprf)) | [ORCID ID]([https://orcid.org/](https://orcid.org/my-orcid?orcid=0009-0000-4629-8955))
 
 ---
-📫 [LinkedIn](https://www.linkedin.com/in/fowzia-ishrat-nisha) | 🌐 [ResearchGate](https://www.researchgate.net/profile/Fowzia-Nisha)
+*“Dedicated to exploring the intersection of nutrition and immunology to improve human health.”*
