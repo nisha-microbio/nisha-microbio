@@ -11,7 +11,7 @@
 - **Research Tools:** **Mendeley**, **EndNote**, **BioRender**, GitHub.
 
 ### 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/fowzia-ishrat-nisha) | [ResearchGate]([https://www.researchgate.net/profile/Fowzia-Nisha](https://www.researchgate.net/profile/Fowzia-Nisha?ev=hdr_xprf)) | [ORCID ID]([https://orcid.org/](https://orcid.org/my-orcid?orcid=0009-0000-4629-8955))
+[LinkedIn](https://www.linkedin.com/in/fowzia-ishrat-nisha) | [ResearchGate](https://www.researchgate.net/profile/Fowzia-Nisha) | [ORCID ID](https://orcid.org/0009-0000-4629-8955)
 
 ---
 *“Dedicated to exploring the intersection of nutrition and immunology to improve human health.”*
